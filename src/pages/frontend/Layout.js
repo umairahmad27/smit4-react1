@@ -16,6 +16,9 @@ export default function Layout() {
                         <Link to="/contact">Contact</Link>
                     </li>
                     <li>
+                        <Link to="/counter">Counter</Link>
+                    </li>
+                    <li>
                         <Link to="/login">Login</Link>
                     </li>
                 </ul>

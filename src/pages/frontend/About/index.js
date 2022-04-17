@@ -1,7 +1,13 @@
 import React from 'react'
+// import About from './About'
 
-export default function index() {
+function index() {
+
   return (
-    <div>index of About</div>
+    <>
+      {/* <About /> */}
+    </>
   )
 }
+
+export default index
